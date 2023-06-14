@@ -6,4 +6,5 @@ FOR NOW I KNOW
 
 1. NODE JS
 1. Java script
-1.
+1. Repl.it
+1. chalk
